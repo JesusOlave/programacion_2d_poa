@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/_ Ambient Space Music (No Copyright).ogg</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/bullet.png</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/creditos.jpg</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/fin.jpg</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/HITMARKER SOUND EFFECT (FREE DOWNLOAD).wav</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/instrucciones.jpg</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/la_navesita_bebelin.png</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/Laser Gun Sound Effect.wav</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/menuInicio.jpg</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/meteoroooo.png</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/muralla_laser.png</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/muralla_laser2.png</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/nave.png</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/Sound Effects Button.wav</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/Super Mario Bros.-Pause Sound Effect.wav</File>
+    <File>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/universo.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

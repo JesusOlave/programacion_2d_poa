@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/HITMARKER SOUND EFFECT (FREE DOWNLOAD).wav</SourceFile>
+  <SourceTime>2020-08-28T00:36:01.9492763-04:00</SourceTime>
+  <DestFile>C:/Users/lokar/Desktop/taller-u-3-1/UTalDrawSystem/Content/bin/Windows/Content/HITMARKER SOUND EFFECT (FREE DOWNLOAD).xnb</DestFile>
+  <DestTime>2020-08-28T01:28:08.4462652-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T13:35:54-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T13:35:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,568 @@
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\Content\meow_cookie.xnb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawSystem\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\Content\meow_cookie.xnb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200708\UTalDrawSystem\bin\Windows\x86\Debug\Content\Muro.xnb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\Content\meow_cookie.xnb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\Content\Muro.xnb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200717\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\Content\meow_cookie.xnb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\Content\Muro.xnb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawAndPhysicSystem20200721\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).wma
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).xnb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\Content\meow_cookie.xnb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\Content\Muro.xnb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+D:\UTalca\2020\Progra2D\Monogame\EjemploSistemaDibujado\UTalDrawPhysicsGameSystem20200722\UTalDrawSystem\bin\Windows\x86\Debug\Content\etfx_shoot_mystic.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\etfx_shoot_mystic.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).wma
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall2.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pista.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\credits.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\perdiste.xnb
+C:\Users\lokar\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pantalla1v22.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\credits.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\etfx_shoot_mystic.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).wma
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pantalla1v22.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\perdiste.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pista.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall2.xnb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+C:\Users\Acer\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\blackCircle.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\blackCircle.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\credits.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\etfx_shoot_mystic.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).wma
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pantalla1v22.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\perdiste.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pista.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall2.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\XrísTóBál tú BéyáKó6\Desktop\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\blackCircle.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\credits.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\etfx_shoot_mystic.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).wma
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pantalla1v22.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\perdiste.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pista.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall2.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\blackCircle.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\credits.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\etfx_shoot_mystic.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).wma
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pantalla1v22.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\perdiste.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pista.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall2.xnb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\lokar\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\blackCircle.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\credits.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\etfx_shoot_mystic.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).wma
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pantalla1v22.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\perdiste.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pista.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall2.xnb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\Acer\Documents\GitHub\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\blackCircle.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\credits.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\etfx_shoot_mystic.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).wma
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pantalla1v22.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\perdiste.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\personaje.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pista.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pocion_venenoza.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall2.xnb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Documents\taller u 3 1\UTalDrawPhysicsGameSystemAuidio20200728\UTalDrawSystem\bin\Windows\x86\Debug\Content\pera.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\blackCircle.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\credits.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\etfx_shoot_mystic.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).wma
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\pantalla1v22.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\pera.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\perdiste.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\personaje.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\pista.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\pocion_venenoza.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall2.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\beautiful-beach-scenery-colorful-cartoons_18591-23588.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\eat-munch-sound-effect.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\musica-tropical-sin-copyright.wma
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\musica-tropical-sin-copyright.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\slurp-sound-effect-2_1.xnb
+C:\Users\XrísTóBál tú BéyáKó6\Documents\GitHub\taller u 3 1\UTalDrawSystem\bin\Windows\x86\Debug\Content\y2mate.com - Bass drop sound effect_OWGF_sjX8Fk (online-audio-converter.com).xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\blackCircle.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\beautiful-beach-scenery-colorful-cartoons_18591-23588.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\credits.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\eat-munch-sound-effect.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\etfx_shoot_mystic.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).wma
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Locations_Happy Village (loop).xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\musica-tropical-sin-copyright.wma
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\musica-tropical-sin-copyright.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\pantalla1v22.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\pera.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\perdiste.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\personaje.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\pista.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\pocion_venenoza.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\slurp-sound-effect-2_1.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\wall2.xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\y2mate.com - Bass drop sound effect_OWGF_sjX8Fk (online-audio-converter.com).xnb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\Acer\Documents\GitHub\taller-u-3-1\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\blackCircle.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\universo.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\la_navesita_bebelin.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\muralla_laser.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\muralla_laser2.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\meteoroooo.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\nave.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\menuInicio.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\fin.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\creditos.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\HITMARKER SOUND EFFECT (FREE DOWNLOAD).xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Laser Gun Sound Effect.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Sound Effects Button.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\Super Mario Bros.-Pause Sound Effect.xnb
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\_ Ambient Space Music (No Copyright).wma
+C:\Users\lokar\Desktop\taller-u-3-1\UTalDrawSystem\bin\Windows\x86\Debug\Content\_ Ambient Space Music (No Copyright).xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_1.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\Arbol_2.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\blackCircle.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\Car_Green.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\creditos.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\fin.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\HITMARKER SOUND EFFECT (FREE DOWNLOAD).xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\instrucciones.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\Laser Gun Sound Effect.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\la_navesita_bebelin.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\menuInicio.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\meteoroooo.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\muralla_laser.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\muralla_laser2.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\nave.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\Sound Effects Button.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\Super Mario Bros.-Pause Sound Effect.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\universo.xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\_ Ambient Space Music (No Copyright).wma
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\Content\_ Ambient Space Music (No Copyright).xnb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.exe
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\UTalDrawSystem.pdb
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csprojAssemblyReference.cache
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CoreCompileInputs.cache
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\obj\x86\Debug\UTalPhysicsAndDrawSystem.csproj.CopyComplete
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.exe
+C:\Users\lokar\Documents\GitHub\poa-programacion-2d\UTalDrawSystem\obj\x86\Debug\UTalDrawSystem.pdb
